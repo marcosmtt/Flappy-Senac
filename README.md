@@ -1,0 +1,3 @@
+# Flappy-Senac
+We made a Flappy Bird game with some funny things, like birds with our faces and explosions... 
+Work done in the first semester of college.
